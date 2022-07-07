@@ -2,7 +2,7 @@
 
 ### What is this?
 
-This is a **Magisk module** to theme system apps of MIUI to be matching with Android 12 Material You coloring scheme but keep it as Vanilla MIUI as possible.
+This is a **Magisk module** to theme system apps of MIUI to match Android 12 Material You coloring scheme but keep it as Vanilla MIUI as possible.
 
 ### What's currently themed
 
