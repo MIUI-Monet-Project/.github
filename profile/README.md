@@ -1,8 +1,22 @@
-# MIUI Monet Project
+![MIUI Monet Project](https://raw.githubusercontent.com/MIUI-Monet-Project/.github/main/profile/Monet%20Updates.png)
 
-## What is this?
+### What is this?
 
-This is a Magisk module to system apps of MIUI to be matching with Material You coloring scheme but keep it as Vanilla MIUI as possible.
+This is a **Magisk modules** to system apps of MIUI to be matching with Android 12 Material You coloring scheme but keep it as Vanilla MIUI as possible.
+
+### What's currently themed
+
+1. Control Center
+2. MIUI Dialer and Contacts
+3. Settings
+
+### Screenshot
+
+<coming soon>
+
+### Tested on
+
+- MIUI 13.0.2 Global ROM
 
 <!--
 
