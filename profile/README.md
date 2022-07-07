@@ -2,7 +2,7 @@
 
 ### What is this?
 
-This is a **Magisk modules** to system apps of MIUI to be matching with Android 12 Material You coloring scheme but keep it as Vanilla MIUI as possible.
+This is a **Magisk module** to theme system apps of MIUI to be matching with Android 12 Material You coloring scheme but keep it as Vanilla MIUI as possible.
 
 ### What's currently themed
 
@@ -17,7 +17,7 @@ _coming soon_
 ### Tested on
 
 - MIUI 13.0.2 Global ROM
-
+- MIUI 13 xiaomi.eu beta
 <!--
 
 **Here are some ideas to get you started:**
