@@ -8,7 +8,8 @@ This is a **Magisk module** to theme system apps of MIUI to match Android 12 Mat
 
 1. Control Center
 2. MIUI Dialer and Contacts
-3. Settings
+3. MIUI Messaging
+4. Settings
 
 ### Screenshot
 
