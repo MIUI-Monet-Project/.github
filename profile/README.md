@@ -24,7 +24,7 @@ This is a **Magisk module** to theme system apps of MIUI to match Android 12 Mat
 3. MIUI Messaging
 4. Settings
 
-<h3 align="center"><a href="https://miui-monet-project.github.io/Screenshot/">Screenshot</a> | <a href="">Release</a></h1> 
+<h3 align="center"><a href="https://miui-monet-project.github.io/Screenshot/">Screenshot</a> | <a href="https://github.com/MIUI-Monet-Project/Module/releases">Releases</a></h1> 
 
 
 ### Tested on
@@ -33,6 +33,7 @@ This is a **Magisk module** to theme system apps of MIUI to match Android 12 Mat
 - MIUI 13.0.2 Global Stable | Redmi Note 10 5G
 - MIUI 13.0.4 Indo Stable | Redmi Note 10 Pro
 - MIUI 13.0.4 Global Stable | Poco X3 Pro
+- MIUI 13.0.0.1.45 DEV Beta | Xiaomi Pad 5
 
 **CN & xiaomi.eu based ROM**
 - MIUI 13.0.1 xiaomi.eu Stable | Redmi 10X 4G
