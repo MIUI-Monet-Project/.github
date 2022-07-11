@@ -26,7 +26,7 @@ This is a **Magisk module** to theme system apps of MIUI to match Android 12 Mat
 5. MIUI Home app
 6. Settings
 
-<h3 align="center"><a href="https://miui-monet-project.github.io/Screenshot/">Screenshot</a> | <a href="https://github.com/MIUI-Monet-Project/Module/releases">Releases</a></h1> 
+<h3 align="center"><a href="https://miui-monet-project.github.io/Screenshot/">Screenshot</a> | <a href="https://github.com/MIUI-Monet-Project/Module/releases">Releases</a></h1> | <a href="https://t.me/MIUIMonet">Support Group</a></h1> 
 
 
 ### Tested on
@@ -43,14 +43,22 @@ This is a **Magisk module** to theme system apps of MIUI to match Android 12 Mat
 - MIUI 13 22.7.7 xiaomi.eu beta | Xiaomi 11 LE & Poco F3
 
 
+### Requirements
+
+- Magisk 20.4 and higher
+- MIUI 13 with Android 12 with ROM release date after January 2022
+- System UI Plugin version 13.0.2.xx and higher
+
+
 ### Notes 
 
-- With the latest update, **we only support System UI Plugin version 13.0.2.xx and higher.**
+- With the latest update, **we only support System UI Plugin version 13.0.2.xx and higher**, please check before reporting.
 - **Restart SystemUI is mandatory for changing Control Center color** after changing the theme or wallpaper.
 - **No restart needed for changing Settings, Dialer, Contacts, and Messaging color** after changing theme or wallpaper. **Simply "Force Stop" the app**.
 - To switch between default and themed icons, reflash the module and select a version.
 - The **Settings app also links to other apps** such as Security, cleaner, permissions, themes, notifications, launcher, etc. These apps are not monet themed yet. Please do not report such apps.
 - **We won't support custom icons & custom Control Center from custom MIUI ROMs / modules**.
+- **We won't support Port ROMs** since there are some reports that Port ROMs can't use our modules.
 
 
 
