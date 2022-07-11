@@ -57,6 +57,3 @@ This is a **Magisk module** to theme system apps of MIUI to match Android 12 Mat
 - The **Settings app also links to other apps** such as Security, cleaner, permissions, themes, notifications, launcher, etc. These apps are not monet themed yet. Please do not report such apps.
 - **We won't support custom icons & custom Control Center from custom MIUI ROMs / modules**.
 - **We won't support Port ROMs** since there are some reports that Port ROMs can't use our modules.
-
-
-
