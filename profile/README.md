@@ -1,4 +1,4 @@
-![MIUI Monet Project](https://raw.githubusercontent.com/MIUI-Monet-Project/.github/main/profile/Monet%20Updates.png)
+![MIUI Monet Project](https://raw.githubusercontent.com/MIUI-Monet-Project/.github/main/profile/Monet%20Updates%20New%20Banner.png)
 <h1 align="center">MIUI Monet Project</h1>
 
 <div align="center">
