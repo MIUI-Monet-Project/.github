@@ -24,7 +24,7 @@ This is a **Magisk module** to theme system apps of MIUI to match Android 12 Mat
 3. MIUI Messaging
 4. Settings
 
-### [Screenshot](https://miui-monet-project.github.io/Screenshot/)
+<h3 align="center"><a href="https://miui-monet-project.github.io/Screenshot/">Screenshot</a> | <a href="">Release</a></h1> 
 
 
 ### Tested on
