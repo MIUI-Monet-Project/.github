@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/badge/MinMagisk-20.4-red.svg?longCache=true&style=flat-square"
       alt="_time_stamp_" /></div>
 </div>
+<h3 align="center"><a href="https://miui-monet-project.github.io/Screenshot/">Screenshot</a> | <a href="https://github.com/MIUI-Monet-Project/Module/releases">Releases</a> | <a href="https://t.me/MIUIMonet">Support Group</a></h3> 
 
 ### What is this?
 
@@ -25,9 +26,6 @@ This is a **Magisk module** to theme system apps of MIUI to match Android 12 Mat
 4. MIUI Messaging
 5. MIUI Home app
 6. Settings
-
-<h3 align="center"><a href="https://miui-monet-project.github.io/Screenshot/">Screenshot</a> | <a href="https://github.com/MIUI-Monet-Project/Module/releases">Releases</a></h1> | <a href="https://t.me/MIUIMonet">Support Group</a></h1> 
-
 
 ### Tested on
 
