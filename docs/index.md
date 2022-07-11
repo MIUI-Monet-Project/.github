@@ -1,16 +1,15 @@
 ![MIUI Monet Project](https://raw.githubusercontent.com/MIUI-Monet-Project/.github/main/profile/Monet%20Updates%20New%20Banner.png)
 
-<div align="center">
-  <!-- Version -->
-    <img src="https://img.shields.io/badge/Version-v1.1.0-blue.svg?longCache=true&style=popout-square"
-      alt="Version" />
-  <!-- Last Updated -->
-    <img src="https://img.shields.io/badge/Updated-July 11, 2022-green.svg?longCache=true&style=flat-square"
-      alt="_time_stamp_" />
-  <!-- Min Magisk -->
-    <img src="https://img.shields.io/badge/MinMagisk-20.4-red.svg?longCache=true&style=flat-square"
-      alt="_time_stamp_" /></div>
-</div>
+
+<!-- Version -->
+  <img src="https://img.shields.io/badge/Version-v1.1.0-blue.svg?longCache=true&style=popout-square"
+    alt="Version" />
+<!-- Last Updated -->
+  <img src="https://img.shields.io/badge/Updated-July 11, 2022-green.svg?longCache=true&style=flat-square"
+    alt="_time_stamp_" />
+<!-- Min Magisk -->
+  <img src="https://img.shields.io/badge/MinMagisk-20.4-red.svg?longCache=true&style=flat-square"
+    alt="_time_stamp_" /></div>
 
 <h3 align="center"><a href="https://miui-monet-project.github.io/Screenshot/">Screenshot</a> | <a href="https://github.com/MIUI-Monet-Project/Module/releases">Releases</a> | <a href="https://t.me/MIUIMonet">Support Group</a></h3> 
 
