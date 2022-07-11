@@ -19,10 +19,12 @@ This is a **Magisk module** to theme system apps of MIUI to match Android 12 Mat
 
 ### What's currently themed
 
-1. Control Center
-2. MIUI Dialer and Contacts
-3. MIUI Messaging
-4. Settings
+1. Control Center & Classic Quick Settings
+2. Xiaomi Find Phone
+3. MIUI Dialer and Contacts
+4. MIUI Messaging
+5. MIUI Home app
+6. Settings
 
 <h3 align="center"><a href="https://miui-monet-project.github.io/Screenshot/">Screenshot</a> | <a href="https://github.com/MIUI-Monet-Project/Module/releases">Releases</a></h1> 
 
@@ -50,15 +52,5 @@ This is a **Magisk module** to theme system apps of MIUI to match Android 12 Mat
 - The **Settings app also links to other apps** such as Security, cleaner, permissions, themes, notifications, launcher, etc. These apps are not monet themed yet. Please do not report such apps.
 - **We won't support custom icons & custom Control Center from custom MIUI ROMs / modules**.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
 
 
