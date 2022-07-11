@@ -1,1 +1,7 @@
 theme: jekyll-theme-cayman
+show_downloads: true
+title: MIUI Monet Project
+description: Material You Wallpaper-based Dynamic Themed Apps for MIUI
+github:
+  zip_url: https://github.com/MIUI-Monet-Project/Module/releases
+  repository_url: https://github.com/MIUI-Monet-Project
