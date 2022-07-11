@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+![MIUI Monet Project](https://raw.githubusercontent.com/MIUI-Monet-Project/.github/main/profile/Monet%20Updates%20New%20Banner.png)
+<h1 align="center">MIUI Monet Project</h1>
 
-You can use the [editor on GitHub](https://github.com/MIUI-Monet-Project/.github/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<div align="center">
+  <!-- Version -->
+    <img src="https://img.shields.io/badge/Version-v1.0.0-blue.svg?longCache=true&style=popout-square"
+      alt="Version" />
+  <!-- Last Updated -->
+    <img src="https://img.shields.io/badge/Updated-July 8, 2022-green.svg?longCache=true&style=flat-square"
+      alt="_time_stamp_" />
+  <!-- Min Magisk -->
+    <img src="https://img.shields.io/badge/MinMagisk-20.4-red.svg?longCache=true&style=flat-square"
+      alt="_time_stamp_" /></div>
+</div>
+<h3 align="center"><a href="https://miui-monet-project.github.io/Screenshot/">Screenshot</a> | <a href="https://github.com/MIUI-Monet-Project/Module/releases">Releases</a> | <a href="https://t.me/MIUIMonet">Support Group</a></h3> 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What is this?
 
-### Markdown
+This is a **Magisk module** to theme system apps of MIUI to match Android 12 Material You coloring scheme but keep it as Vanilla MIUI as possible.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### What's currently themed
 
-```markdown
-Syntax highlighted code block
+1. Control Center & Classic Quick Settings
+2. Xiaomi Find Phone
+3. MIUI Dialer and Contacts
+4. MIUI Messaging
+5. MIUI Home app
+6. Settings
 
-# Header 1
-## Header 2
-### Header 3
+### Tested on
 
-- Bulleted
-- List
+**Global-based ROM**
+- MIUI 13.0.2 Global Stable | Redmi Note 10 5G
+- MIUI 13.0.4 Indo Stable | Redmi Note 10 Pro
+- MIUI 13.0.4 Global Stable | Poco X3 Pro
+- MIUI 13.0.0.1.45 DEV Beta | Xiaomi Pad 5
 
-1. Numbered
-2. List
+**CN & xiaomi.eu based ROM**
+- MIUI 13.0.1 xiaomi.eu Stable | Redmi 10X 4G
+- MIUI 13 22.6.29 xiaomi.eu beta | Redmi K30
+- MIUI 13 22.7.7 xiaomi.eu beta | Xiaomi 11 LE & Poco F3
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Requirements
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- Magisk 20.4 and higher
+- MIUI 13 with Android 12 with ROM release date after January 2022
+- System UI Plugin version 13.0.2.xx and higher
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MIUI-Monet-Project/.github/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Notes 
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- With the latest update, **we only support System UI Plugin version 13.0.2.xx and higher**, please check before reporting.
+- **Restart SystemUI is mandatory for changing Control Center color** after changing the theme or wallpaper.
+- **No restart needed for changing Settings, Dialer, Contacts, and Messaging color** after changing theme or wallpaper. **Simply "Force Stop" the app**.
+- To switch between default and themed icons, reflash the module and select a version.
+- The **Settings app also links to other apps** such as Security, cleaner, permissions, themes, notifications, launcher, etc. These apps are not monet themed yet. Please do not report such apps.
+- **We won't support custom icons & custom Control Center from custom MIUI ROMs / modules**.
+- **We won't support Port ROMs** since there are some reports that Port ROMs can't use our modules.
