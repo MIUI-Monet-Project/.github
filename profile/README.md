@@ -11,14 +11,14 @@ This is a **Magisk module** to theme system apps of MIUI to match Android 12 Mat
 3. MIUI Messaging
 4. Settings
 
-### Screenshot
+### [Screenshot](https://miui-monet-project.github.io/Screenshot/)
 
-_coming soon_
 
 ### Tested on
 
-- MIUI 13.0.2 Global ROM
-- MIUI 13 xiaomi.eu beta
+- MIUI 13.0.2 Global ROM | Redmi Note 10 5G
+- MIUI 13 xiaomi.eu beta | 
+- MIUI 13.0.1 CN Stable
 <!--
 
 **Here are some ideas to get you started:**
