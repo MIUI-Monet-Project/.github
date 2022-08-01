@@ -21,39 +21,42 @@ This is a **Magisk module** to theme system apps of MIUI to match Android 12 Mat
 ### What's currently themed
 
 1. Control Center & Classic Quick Settings
-2. Xiaomi Find Phone
-3. MIUI Dialer and Contacts
-4. MIUI Messaging
-5. MIUI Home app
-6. Settings
+2. MIUI Dialer and Contacts
+3. MIUI Messaging
+4. MIUI Home app
+5. Settings (includes App Battery Saver, Refresh Rate Settings, Screen Time, Dual Apps, Second Space, Phone Services, and Nature Notification Sounds)
+6. MIUI Security Center
+7. MIUI Notification Center
+8. MIUI Cloud Backup, Xiaomi Find Phone, and Xiaomi Cloud
+9. Mi Sound
+10. CN & Global Cleaner
+11. CN & Global File Manager
 
-### Tested on
-
-**Global-based ROM**
-- MIUI 13.0.2 Global Stable | Redmi Note 10 5G
-- MIUI 13.0.4 Indo Stable | Redmi Note 10 Pro
-- MIUI 13.0.4 Global Stable | Poco X3 Pro
-- MIUI 13.0.0.1.45 DEV Beta | Xiaomi Pad 5
-
-**CN & xiaomi.eu based ROM**
-- MIUI 13.0.1 xiaomi.eu Stable | Redmi 10X 4G
-- MIUI 13 22.6.29 xiaomi.eu beta | Redmi K30
-- MIUI 13 22.7.7 xiaomi.eu beta | Xiaomi 11 LE & Poco F3
-
-
-### Requirements
-
+###Requirements
 - Magisk 20.4 and higher
+- Knowledge to install Magisk Module
 - MIUI 13 with Android 12 with ROM release date after January 2022
 - System UI Plugin version 13.0.2.xx and higher
 
+### Tested on
+
+- @code28h4p - Redmi Note 10 Pro | 13.0.4 Stable ID
+- @Naokoshoto - Redmi Note 10 5G | 13.0.4 Stable Global 
+- @norym_yajeec - Xiaomi Pad 5 | 13.0.0.1.45 DEV Global
+
+- @Jefino9488 - Redmi 10X | 13.0.1 Stable CN
+- @Paul_Johnssen - Xiaomi 12 Pro | 13.0.36 Xiaomi.EU Stable 
+- @jd_joy - Mi 11X | 22.7.8 Beta CN
+- @Nightlake098 - Xiaomi 11 Lite NE | 22.7.15 Beta CN
+- @Paul_Johnssen - Mi 11 | 22.7.7 Xiaomi.EU Beta
 
 ### Notes 
 
-- With the latest update, **we only support System UI Plugin version 13.0.2.xx and higher**, please check before reporting.
-- **Restart SystemUI is mandatory for changing Control Center color** after changing the theme or wallpaper.
-- **No restart needed for changing Settings, Dialer, Contacts, and Messaging color** after changing theme or wallpaper. **Simply "Force Stop" the app**.
+- With the latest update, **we only support System UI Plugin version 13.0.2.xx and higher**, please check the notes on the group before reporting.
+- **Restart SystemUI is mandatory** only for **changing Control Center color** after changing the theme or wallpaper.
+- **No restart needed for changing the rest of the app color** after changing theme or wallpaper. **Simply “Force Stop” the app**.
 - To switch between default and themed icons, reflash the module and select a version.
-- The **Settings app also links to other apps** such as Security, cleaner, permissions, themes, notifications, launcher, etc. These apps are not monet themed yet. Please do not report such apps.
-- **We won't support custom icons & custom Control Center from custom MIUI ROMs / modules**.
-- **We won't support Port ROMs** since there are some reports that Port ROMs can't use our modules.
+- **We won’t support moadded & custom Control Center layout from custom MIUI ROMs / modules**.
+- **We won’t support Port ROMs** since there are some reports that Port ROMs can’t use our modules.
+- **Security app may be a little janky with the background** because Xiaomi used MP4 for the animation instead of XML. Blame Xiaomi for this! 
+  - Temporary solution: Repainter
