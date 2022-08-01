@@ -32,7 +32,8 @@ This is a **Magisk module** to theme system apps of MIUI to match Android 12 Mat
 10. CN & Global Cleaner
 11. CN & Global File Manager
 
-###Requirements
+### Requirements
+
 - Magisk 20.4 and higher
 - Knowledge to install Magisk Module
 - MIUI 13 with Android 12 with ROM release date after January 2022
