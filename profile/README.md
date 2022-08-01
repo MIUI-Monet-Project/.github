@@ -46,10 +46,8 @@ This is a **Magisk module** to theme system apps of MIUI to match Android 12 Mat
 - @norym_yajeec - Xiaomi Pad 5 | 13.0.0.1.45 DEV Global
 
 - @Jefino9488 - Redmi 10X | 13.0.1 Stable CN
-- @Paul_Johnssen - Xiaomi 12 Pro | 13.0.36 Xiaomi.EU Stable 
 - @jd_joy - Mi 11X | 22.7.8 Beta CN
 - @Nightlake098 - Xiaomi 11 Lite NE | 22.7.15 Beta CN
-- @Paul_Johnssen - Mi 11 | 22.7.7 Xiaomi.EU Beta
 
 ### Notes 
 
