@@ -54,7 +54,7 @@ This is a **Magisk module** to theme system apps of MIUI to match Android 12 Mat
 - **Restart SystemUI is mandatory** only for **changing Control Center color** after changing the theme or wallpaper.
 - **No restart needed for changing the rest of the app color** after changing theme or wallpaper. **Simply “Force Stop” the app**.
 - To switch between default and themed icons, reflash the module and select a version.
-- **We won’t support moadded & custom Control Center layout from custom MIUI ROMs / modules**.
+- **We won’t support modded & custom Control Center layout from custom MIUI ROMs / modules**.
 - **We won’t support Port ROMs** since there are some reports that Port ROMs can’t use our modules.
-- **Security app may be a little janky with the background** because Xiaomi used MP4 for the animation instead of XML. Blame Xiaomi for this! 
+- **Security app may be a little janky with the background** because Xiaomi used MP4 for the animation instead of XML
   - Temporary solution: Repainter
