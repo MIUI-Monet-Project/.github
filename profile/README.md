@@ -1,60 +1,37 @@
-![MIUI Monet Project](https://raw.githubusercontent.com/MIUI-Monet-Project/.github/main/profile/Monet%20Updates%20New%20Banner.png)
+![MIUI Monet Project](https://github.com/MIUI-Monet-Project/.github/blob/main/profile/Monet%20Updates%20(1).png?raw=true)
 <h1 align="center">MIUI Monet Project</h1>
 
 <div align="center">
   <!-- Version -->
-    <img src="https://img.shields.io/badge/Version-v3.0.0-blue.svg?longCache=true&style=popout-square"
-      alt="Version" />
+  <a href="https://github.com/MIUI-Monet-Project/Module/releases"><img src="https://img.shields.io/github/v/release/miui-monet-project/module?color=green&include_prereleases&logo=magisk&logoColor=white&style=for-the-badge"
+                                                                       alt="Latest Version" /></a>
   <!-- Last Updated -->
-    <img src="https://img.shields.io/badge/Updated-August 1, 2022-green.svg?longCache=true&style=flat-square"
-      alt="_time_stamp_" />
+  <img src="https://img.shields.io/github/release-date/miui-monet-project/module?style=for-the-badge" alt="_time_stamp_" />
   <!-- Min Magisk -->
-    <img src="https://img.shields.io/badge/MinMagisk-20.4-red.svg?longCache=true&style=flat-square"
-      alt="_time_stamp_" /></div>
+  <img src="https://img.shields.io/badge/Min Magisk-20.4-red.svg?longCache=true&style=for-the-badge"
+      alt="Min Magisk v20.4" />
 </div>
-<h3 align="center"><a href="https://miui-monet-project.github.io/Screenshot/">Screenshot</a> | <a href="https://github.com/MIUI-Monet-Project/Module/releases">Releases</a> | <a href="https://t.me/MIUIMonet">Support Group</a></h3> 
 
-### What is this?
+<h2 align="center">
+  <a href="https://telegra.ph/README-08-31">README first before installing</a>
+  <br /><br />
+   <a href="https://telegra.ph/Whats-Currently-Themed-11-06"><img src="https://img.shields.io/badge/Themed App-List-blue?longCache=true&style=for-the-badge"
+      alt="Themed Apps List" /></a>
+   <a href="https://t.me/@MIUIMonetUpdate"><img src="https://img.shields.io/badge/telegram-channel-blue?longCache=true&style=for-the-badge&logo=telegram&logoColor=white"
+      alt="Telegram Channel" /></a>
+   <a href="https://t.me/@MIUIMonet"><img src="https://img.shields.io/badge/telegram-discuss-blue?longCache=true&style=for-the-badge&logo=telegram&logoColor=white"
+      alt="Telegram Channel" /></a>
 
-This is a **Magisk module** to theme system apps of MIUI to match Android 12 Material You coloring scheme but keep it as Vanilla MIUI as possible.
+</h2>
 
-### What's currently themed
 
-1. Control Center & Classic Quick Settings
-2. MIUI Dialer and Contacts
-3. MIUI Messaging
-4. MIUI Home app
-5. Settings (includes App Battery Saver, Refresh Rate Settings, Screen Time, Dual Apps, Second Space, Phone Services, and Nature Notification Sounds)
-6. MIUI Security Center
-7. MIUI Notification Center
-8. MIUI Cloud Backup, Xiaomi Find Phone, and Xiaomi Cloud
-9. Mi Sound
-10. CN & Global Cleaner
-11. CN & Global File Manager
+<div align="center">
+  <strong>MIUI Monet Project brings wallpaper-based dynamic theme to MIUI system apps on Android 12+</strong>
+</div>
 
-### Requirements
-
-- Magisk 20.4 and higher
-- Knowledge to install Magisk Module
-- MIUI 13 with Android 12 with ROM release date after January 2022
-- System UI Plugin version 13.0.2.xx and higher
 
 ### Tested on
-
-- Redmi Note 10 Pro | 13.0.4 Stable ID
-- Redmi Note 10 5G | 13.0.4 Stable Global 
-- Xiaomi Pad 5 | 13.0.0.1.45 DEV Global
-
-- Redmi 10X | 13.0.1 Stable CN
-- Xiaomi 11 Lite NE | 22.7.15 Beta CN
-
-### Notes 
-
-- With the latest update, **we only support System UI Plugin version 13.0.2.xx and higher**, please check the notes on the group before reporting.
-- **Restart SystemUI is mandatory** only for **changing Control Center color** after changing the theme or wallpaper.
-- **No restart needed for changing the rest of the app color** after changing theme or wallpaper. **Simply “Force Stop” the app**.
-- To switch between default and themed icons, reflash the module and select a version.
-- **We won’t support modded & custom Control Center layout from custom MIUI ROMs / modules**.
-- **We won’t support Port ROMs** since there are some reports that Port ROMs can’t use our modules.
-- **Security app may be a little janky with the background** because Xiaomi used MP4 for the animation instead of XML
-  - Temporary solution: Repainter
+- MIUI 13 CN ROM
+- MIUI 13 Global ROM
+- MIUI 13 xiaomi.eu ROM
+- MIUI 14 CN DEV
