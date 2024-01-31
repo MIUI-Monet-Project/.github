@@ -1,5 +1,5 @@
-![MIUI Monet Project](https://github.com/MIUI-Monet-Project/.github/blob/main/profile/Monet%20Proj%20New%20Logo.png?raw=true)
-<h1 align="center">MIUI Monet Project</h1>
+![HyperOS Monet Project](https://github.com/MIUI-Monet-Project/.github/blob/main/profile/Monet%20Proj%20New%20Logo.png?raw=true)
+<h1 align="center"> HyperOS Monet Project</h1>
 
 <div align="center">
   <!-- Version -->
@@ -26,12 +26,14 @@
 
 
 <div align="center">
-  <strong>MIUI Monet Project brings wallpaper-based dynamic theme to MIUI system apps on Android 12+</strong>
+  <strong>HyperOS Monet Project brings wallpaper-based dynamic theme to MIUI system apps on Android 12+</strong>
 </div>
 
 
 ### Tested on
-- MIUI 13 CN ROM
-- MIUI 13 Global ROM
+- MIUI 13 CN & Global ROM
 - MIUI 13 xiaomi.eu ROM
-- MIUI 14 CN DEV
+- MIUI 14 CN & Global ROM
+- MIUI 14 xiaomi.eu ROM
+- HyperOS CN & Global ROM
+- HyperOS xiaomi.eu ROM
